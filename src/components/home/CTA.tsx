@@ -36,18 +36,18 @@ export default function CTA() {
             </p>
             <div className="mt-9 flex flex-wrap justify-center gap-4 lg:justify-start">
               <a
-                href="mailto:hello@nexoracloud.com"
+                href="mailto:info@nexoracloudtechnologies.com"
                 className="bg-gradient-brand glow-ring inline-flex items-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold text-primary-foreground transition-transform duration-200 hover:scale-[1.03] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
               >
                 Book Consultation
                 <ArrowRight className="h-4 w-4" aria-hidden="true" />
               </a>
               <a
-                href="tel:+919876543210"
+                href="tel:+918010155694"
                 className="glass inline-flex items-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold transition-colors duration-200 hover:bg-secondary focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
               >
                 <PhoneCall className="h-4 w-4" aria-hidden="true" />
-                Contact Us
+                +91 80101 55694
               </a>
             </div>
           </div>

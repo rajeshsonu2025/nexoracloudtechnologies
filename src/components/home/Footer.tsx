@@ -52,14 +52,14 @@ export default function Footer() {
             <ul className="mt-6 space-y-3 text-sm text-muted-foreground">
               <li className="flex min-w-0 items-center gap-2">
                 <Mail className="h-4 w-4 shrink-0 text-brand-cyan" aria-hidden="true" />
-                <a href="mailto:hello@nexoracloud.com" className="truncate hover:text-foreground">
-                  hello@nexoracloud.com
+                <a href="mailto:info@nexoracloudtechnologies.com" className="truncate hover:text-foreground">
+                  info@nexoracloudtechnologies.com
                 </a>
               </li>
               <li className="flex min-w-0 items-center gap-2">
                 <Phone className="h-4 w-4 shrink-0 text-brand-cyan" aria-hidden="true" />
-                <a href="tel:+919876543210" className="truncate hover:text-foreground">
-                  +91 98765 43210
+                <a href="tel:+918010155694" className="truncate hover:text-foreground">
+                  +91 80101 55694
                 </a>
               </li>
               <li className="flex min-w-0 items-center gap-2">
