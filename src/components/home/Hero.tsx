@@ -19,8 +19,8 @@ const floatingCards = [
   { label: "AWS", icon: Cloud, position: "left-[-6%] top-[12%]", delay: 0 },
   { label: "Docker", icon: Container, position: "left-[-10%] top-[52%]", delay: 0.6 },
   { label: "Kubernetes", icon: Boxes, position: "left-[8%] bottom-[-4%]", delay: 1.2 },
-  { label: "Terraform", icon: Layers, position: "right-[-6%] top-[18%]", delay: 0.3 },
-  { label: "CI/CD", icon: GitBranch, position: "right-[-9%] top-[58%]", delay: 0.9 },
+  { label: "Terraform", icon: Layers, position: "right-[-2%] top-[18%]", delay: 0.3 },
+  { label: "CI/CD", icon: GitBranch, position: "right-[-3%] top-[58%]", delay: 0.9 },
   { label: "Linux", icon: Terminal, position: "right-[6%] bottom-[-5%]", delay: 1.5 },
 ];
 
