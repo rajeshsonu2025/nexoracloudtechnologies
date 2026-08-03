@@ -10,7 +10,7 @@ export const Route = createFileRoute("/")({
     meta: [
       { title: "NexoraCloud Technologies | Cloud & DevOps Engineering Company" },
       { name: "description", content: description },
-      { property: "og:title", content: "NexoraCloud Technologies | Cloud & DevOps Engineering" },
+      { property: "og:title", content: "NexoraCloud Technologies | Cloud & DevOps Engineering Company" },
       { property: "og:description", content: description },
     ],
   }),

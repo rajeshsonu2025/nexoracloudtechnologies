@@ -77,21 +77,25 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "NexoraCloud Technologies — Cloud & DevOps Engineering" },
+      { title: "NexoraCloud Technologies | Cloud & DevOps Engineering Company" },
       {
         name: "description",
         content:
           "NexoraCloud Technologies builds secure, scalable cloud infrastructure with AWS, Azure, GCP, Kubernetes and DevOps automation.",
       },
       { name: "author", content: "NexoraCloud Technologies" },
-      { property: "og:title", content: "NexoraCloud Technologies" },
+      { property: "og:title", content: "NexoraCloud Technologies | Cloud & DevOps Engineering Company" },
       {
         property: "og:description",
-        content: "Cloud engineering, DevOps and infrastructure automation for modern businesses.",
+        content: "NexoraCloud Technologies builds secure, scalable cloud infrastructure with AWS, Azure, GCP, Kubernetes and DevOps automation.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "NexoraCloud Technologies | Cloud & DevOps Engineering Company" },
+      { name: "twitter:description", content: "NexoraCloud Technologies builds secure, scalable cloud infrastructure with AWS, Azure, GCP, Kubernetes and DevOps automation." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4d4f5cc6-14c0-4297-9c89-0a021a38e11e/id-preview-31593b31--d32b368d-a30d-4361-8ffc-254df775ad71.lovable.app-1785735889774.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4d4f5cc6-14c0-4297-9c89-0a021a38e11e/id-preview-31593b31--d32b368d-a30d-4361-8ffc-254df775ad71.lovable.app-1785735889774.png" },
     ],
     links: [
       {
